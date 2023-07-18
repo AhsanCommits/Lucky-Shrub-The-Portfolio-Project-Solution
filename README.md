@@ -37,7 +37,7 @@ Desktop Screenshot
 
 ### Links
 
-- Live Site URL: [Visit](https://single-price-grid-component-one-cyan.vercel.app/)
+- Live Site URL: [Visit](https://ahsancommits.github.io/Lucky-Shrub-The-Portfolio-Project-Solution/)
 
 ## My process
 
